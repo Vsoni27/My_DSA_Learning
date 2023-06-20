@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "stack": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
